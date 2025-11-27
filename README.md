@@ -5,17 +5,29 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear an
 
 ds_harshada/
 │
+
 ├── sentiment_trader_analysis.ipynb       # Main analysis notebook
+
 ├── linear_regression.ipynb               # Optional model notebook
+
 │
+
 ├── data/
+
 │   ├── fear_greed_index.csv
+
 │   └── trader_data.csv
+
 │
+
 ├── outputs/
+
 │   ├── plot1
+
 │   ├── plot2
-│   
+
+│ 
+
 └── README.md
 
 Objective
@@ -32,12 +44,12 @@ Datasets Used
 
 Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 Google Colab
 
 Key Steps
